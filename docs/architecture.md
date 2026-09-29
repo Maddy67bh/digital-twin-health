@@ -1,0 +1,2 @@
+# Architecture
+All data is simulated. Layers: (1) Data Sources: synthetic generator now; wearables, smartwatches, fitness trackers, health apps, IoT sensors and manual input are future integrations and are NOT connected. (2) Processing: Pydantic validation, range checks, resampling. (3) Twin State Engine (`backend/simulation/engine.py`): profile, baseline, current state, mean-reverting simulator. (4) Analytics/ML (`backend/ml/analytics.py`): Ridge regression, robust z-score anomalies, 7-day insights. (5) Simulation: what-if projection. (6) Visualization: React + Recharts.

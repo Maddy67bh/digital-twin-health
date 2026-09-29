@@ -1,0 +1,2 @@
+# 3-5 minute demo
+1 Open Dashboard, note the SIMULATED banner. 2 Introduce the twin and current state. 3 Start Simulation at 5x; watch values change. 4 Switch 24h/7d/30d. 5 Show the anomaly card (108 bpm vs 60-85 baseline) and its wording. 6 Read an insight: metric, baseline, current, change, reason. 7 What-If: sleep 5.5 to 7.5, steps 3000 to 8000, stress lower; run; show trajectory and label. 8 Architecture tab. 9 Privacy tab. 10 Future integrations (wearables, IoT) are planned, not connected.
